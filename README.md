@@ -27,3 +27,7 @@ Dataset used: *Superstore Sales Dataset* (or specify the exact dataset if known)
      🧑‍💼 Customer Segments: Consumer, Corporate, Home Office
      🪑 Product & Category Insights
      🚚 Shipping Method
+
+
+  6. Screenshot
+     https://github.com/ADITYA13-STAR/SalesSight/blob/main/sales%20project.pbix
